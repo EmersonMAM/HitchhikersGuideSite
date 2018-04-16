@@ -18,5 +18,8 @@ body {
 }
 
 .articlename {
-
+    color: #00ff00;
+    font-size: 20px;
+    text-align: center;
+    align-content: center;
 }

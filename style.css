@@ -3,6 +3,13 @@ body {
     text-align: center;
 }
 
+#earth {
+    
+    height: auto; 
+    width: auto; 
+    max-width: 180px; 
+    max-height: 180px;
+}
 
 #title {
     text-align: center;
