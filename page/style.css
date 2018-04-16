@@ -18,8 +18,27 @@ body {
 }
 
 .articlename {
+    position: relative;
     color: #00ff00;
     font-size: 20px;
     text-align: center;
-    align-content: center;
+}
+
+.articletext {
+    color: #00ff00;
+    font-size: 20px;
+    text-align: center;
+}
+
+.articletitle {
+    color: #00ff00;
+    font-size: 56px;
+    text-align: center;
+}
+
+.planetimage {
+    height: auto; 
+    width: auto; 
+    max-width: 300px; 
+    max-height: 300px;
 }
