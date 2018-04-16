@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+p {
+    color: #46ff4a;
+    font-size: 21px;
+}
+
+#title {
+    text-align: center;
+    font-size: 70px;
+}
+
+#subtitle {
+    font-size: 40px;
+
+}
