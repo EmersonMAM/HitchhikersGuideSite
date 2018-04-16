@@ -18,6 +18,6 @@ p {
 
 }
 
-#article {
-    
+.article {
+    font-size: 90px;
 }
